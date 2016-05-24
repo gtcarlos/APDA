@@ -6,6 +6,7 @@
                |___/                                            
 
 *   **0** - Conheça as regras!
+*   **0.1** - Nã pode postar umas paradas de Javascript com ES6
 *   **1** - QUALQUER um que desrespeitar outro usuário, será banido do grupo.
 *   **2** - NÃO FAREMOS NENHUM CÓDIGO COMPLETO PRA VOCÊ, o grupo é feito pra te ajudar a fazer o seu código, se quiser   algo completo pague um programador pra isso.
 *   **3** - O grupo é dedicado a troca de informações, portando xingamentos, palavras de baixo calão que ofendam membros, e coisas do tipo NÃO serão toleradas. Caso o usuário prossiga falando palavras assim, serão tomadas providencias.
